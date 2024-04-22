@@ -73,6 +73,6 @@ Please read the [Code of Conduct](https://github.com/FatimaHasan786/vitti-touris
 
 Sanskar Verma : sanskarverma152@gmail.com <br>
 Tarun Hasija : Tarunhasija999@gmail.com<br>
-Fatima hasan : <br>
-Sahil Mungriya : <br>
+Fatima hasan : sayadfatimahasan786@gmail.com<br>
+Sahil Mungriya : sahilmungriya11@gmail.com<br>
 Project Link: [https://github.com/FatimaHasan786/vitti-tourism](https://github.com/FatimaHasan786/vitti-tourism)
